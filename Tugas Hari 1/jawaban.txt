@@ -1,0 +1,5 @@
+1. Apa itu GIT adalah salah satu sistem pengontrol versi (Version Control System) pada proyek perangkat lunak yang diciptakan oleh Linus Torvalds.
+2. Apa itu Gitlab  layanan yang menyediakan remote access  ke Git repositories
+3. Apa fungsi dari kode git add menambahkan file baru pada repository yang dipilih
+4. Apa fungsi dari kode git commit   digunakan untuk menyimpan perubahan yang sudah dilakukan, namun tidak ada perubahan yang terjadi pada remote repository
+5. Apa fungsi dari kode git push digunakan dalam mengirimkan perubahan file yang dilakukan setelah di commit ke remote repository.
